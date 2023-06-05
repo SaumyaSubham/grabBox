@@ -1,5 +1,7 @@
 # grabBox
-Today I'm creating a complete responsive online food website using html, css and vanilla javascript. Unlike Zomato and Swiggy, It's a Indian local food website operating from local restaurant where we can order our dailylife based homely food. It is one of my project of Web Development. If you want to check my other Web Developments projects, be free to watch it my other repos.
+Today I'm creating a complete responsive online food website using html, css and vanilla javascript. 
+Unlike Zomato and Swiggy, It's a Indian local food website operating from local restaurant where we can order our dailylife based homely food.
+It is one of my project of Web Development. If you want to check my other Web Developments projects, be free to watch it my other repos.
 
 Here, We used some food images instead of any database to make it attractive ✔️✔️.
 
